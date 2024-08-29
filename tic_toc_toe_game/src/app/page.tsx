@@ -6,7 +6,7 @@ export default function homepage() {
   return (
     
     <div >
-      <div className="font-mono text-4xl text-center p-10  ">Tic Toc Toe game with NextJs </div>
+      <div className="font-mono text-4xl text-center p-10  ">Tic Tac Toe game with NextJs </div>
       <Board />
     </div>
     
