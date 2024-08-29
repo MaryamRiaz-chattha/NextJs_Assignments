@@ -17,11 +17,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="bg-gray-100">
-        <div className="font-mono text-4xl text-center p-10  ">Tic Toc Toe game with NextJs </div>
         
         <main className="flex justify-center items-center min-h-screen">
           {children}
         </main>
+        
+        <footer className="bg-purple-600 flex bottom-0  text-white justify-center text-center">powered by Maryam Riaz </footer>
       </body>
     </html>
  
