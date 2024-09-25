@@ -1,4 +1,4 @@
-This step will help you create a Sanity project.
+![sanity2](https://github.com/user-attachments/assets/c41b0e9a-89f2-4cef-b486-85373502abfa)This step will help you create a Sanity project.
 Step 1: Create a new Next.js project
 pnpm create create-next-app@latest .
 Step 2: Install Sanity Studio
@@ -15,3 +15,9 @@ pnpm run build
 
 https://github.com/user-attachments/assets/a5218ac1-6055-4ee3-8821-963b8817b678
 
+![sanitt1](https://github.com/user-attachments/assets/af6dee07-a3af-435e-88a1-7f7e9b5d592b)
+
+
+![Uploading sanity1.jpg…]()
+
+![Uploading sanity2.jpg…]()
