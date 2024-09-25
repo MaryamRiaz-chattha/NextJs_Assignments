@@ -10,8 +10,8 @@ type BlogType = {
 };
 
 const getData = async () => {
-  const revalidate =20;
-  const result = await client.fetch(`*[_type=="blogs"]`, { revalidate });
+  const revalidate =10;
+  const result = await client.fetch (`*[_type=="blogs"]`, { revalidate });
   return result;
 };
 
